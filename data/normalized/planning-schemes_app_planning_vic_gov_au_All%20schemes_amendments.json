@@ -1,0 +1,27 @@
+{
+  "id": "planning-schemes_app_planning_vic_gov_au_All%20schemes_amendments-2025-08-27",
+  "doc_type": "document",
+  "jurisdiction": "VIC",
+  "scheme": "planning",
+  "clause": null,
+  "section": null,
+  "title": "@planninginformationservicesvicgov/planning-schemes-portal",
+  "version_date": "2025-08-27",
+  "source_url": "https://planning-schemes.app.planning.vic.gov.au/All%20schemes/amendments?sortKey=lastUpdated&sortOrder=desc&filter.status=Gazetted",
+  "content_raw": "We're sorry but @planninginformationservicesvicgov/planning-schemes-portal doesn't work properly without JavaScript enabled. Please enable it to continue.",
+  "content_clean": "We're sorry but @planninginformationservicesvicgov/planning-schemes-portal doesn't work properly without JavaScript enabled. Please enable it to continue.",
+  "markdown": null,
+  "html": null,
+  "chunks": [
+    {
+      "chunk_id": "planning-schemes_app_planning_vic_gov_au_All%20schemes_amendments-001",
+      "text": "We're sorry but @planninginformationservicesvicgov/planning-schemes-portal doesn't work properly without JavaScript enabled. Please enable it to continue.",
+      "token_estimate": 38
+    }
+  ],
+  "citations": [],
+  "hash": "c6071aed99d22a6f3b0514a403a6fd2d754b0cb4d2f6da36bdf003ddaf6c963e",
+  "extracted_at": "2025-08-27T04:14:30+00:00",
+  "license": "",
+  "notes": ""
+}
